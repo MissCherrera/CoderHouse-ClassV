@@ -1,0 +1,38 @@
+.headerContent{
+    display: inline-block
+}
+.icon{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    display: inline-block;
+}
+
+.principalTitle{
+    font-family: Helvetica;
+    font-size: 35px;
+    font-weight: bold;
+    /*color: rgb(250, 251, 252);*/
+    color: #8C6169;
+    text-decoration: none;
+    margin-top: 35px;
+    margin-left: 70px;
+    display: inline-block;
+}
+.navContent{
+    padding: 20px;
+    position: absolute;
+    top: 40px;
+    right: 15px;
+    display: inline-block;
+}
+.caja{
+    word-spacing: 20px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #8C6169;
+    
+    
+}
